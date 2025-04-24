@@ -76,15 +76,26 @@ O resumo da página será exibido automaticamente, formatado em Markdown/HTML no
 
 ## Exemplo de Saída
 
-```markdown
-## Resumo das Notícias
 
-- **INSS** anunciará o "integral ressarcimento" de valores descontados ilegalmente, recomendando que beneficiários evitem ir às agências.
-- A **Operação** recente apreendeu uma Ferrari e itens de luxo, como relógios e obras de arte.
-- **Lula** e outras personalidades estarão presentes no funeral do Papa Francisco.
-- **Bolsonaro** apresenta piora em seu quadro clínico, segundo boletim médico.
-- Nos esportes, o Corinthians enfrenta dificuldades financeiras...
-```
+# Resumo das Notícias – The Batch | DeepLearning.AI
+
+## Edições Recentes
+
+- **Abril 23, 2025:** Destaques sobre os cinco novos modelos da OpenAI, o robô aberto da Hugging Face, restrições crescentes de chips de IA nos EUA e a evolução dos LLMs textuais para multimodais.
+- **Abril 16, 2025:** Lançamento do Google Gemini 2.5 e análise das novas dinâmicas no setor de IA após o retorno de Sam Altman, além de LLMs que compreendem erros de digitação.
+- **Abril 09, 2025:** Discussões sobre o novo modelo de IA da Claude e avanços em redes neurais focadas em dados tabulares.
+- **Abril 02, 2025:** Inovações em interação voz-para-voz com visão e o impacto emocional do ChatGPT.
+- **Março 26, 2025:** Foco em modelos de linguagem compactos e técnicas de aprendizado acelerado.
+
+## Tópicos Relevantes
+
+- A crescente importância do **aprendizado por reforço** e novas políticas de IA do governo dos EUA.
+- Avanços na **mobilidade** das aplicações de IA e novas propostas regulatórias no espaço da IA.
+- A ascensão do uso de modelos de IA para economizar custos e otimizar o desenvolvimento de software.
+
+Esses resumos cobrem inovações recentes e tendências na área de IA, destacando a evolução tecnológica e o contexto regulatório em que se insere.
+
+
 
 ---
 
